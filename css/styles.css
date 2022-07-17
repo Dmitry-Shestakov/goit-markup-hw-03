@@ -333,6 +333,10 @@ p {
 
 .logo-footer-studio {
   color: #ffffff;
+  font-family: Raleway, cursive;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.2;
 }
 address {
   margin-top: 20px;
